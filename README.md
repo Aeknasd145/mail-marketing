@@ -1,4 +1,4 @@
-# mail-marketing Plugin
+# Mail-Marketing Plugin
 Collect your users/commentators email address for mail marketing
 
 
